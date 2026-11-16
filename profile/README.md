@@ -16,7 +16,7 @@ together the Sai product, developer tools, and the infrastructure behind them.
 | Project | What You'll Find |
 | --- | --- |
 | [Open Sai](https://github.com/SaiDotFun/open-sai) | Public tooling and selected development work for Sai, including the `sai` trader CLI. |
-| [Nibiru](https://github.com/NibiruChain/nibiru) | The L1 codebase behind Sai, with EVM and Wasm smart contract support. |
+| [Nibiru](https://github.com/SaiDotFun/nibiru) | The L1 codebase behind Sai, with EVM and Wasm smart contract support. |
 
 ### Build with Sai
 
